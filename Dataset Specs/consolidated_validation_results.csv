@@ -1,0 +1,22 @@
+metric,value
+Study observations,1461.0
+Study-period patient admissions,44377.0
+Mean LOS (days),15.928003244924172
+Median LOS (days),15.0
+LOS standard deviation (days),7.975909298138516
+Minimum LOS (days),1.0
+Maximum LOS (days),67.0
+Mean occupancy (beds),483.6139630390144
+Occupancy standard deviation (beds),35.32138429424371
+Occupancy coefficient of variation,0.07303632027554639
+Minimum occupancy (beds),393.0
+Maximum occupancy (beds),582.0
+Lag-1 autocorrelation,0.9744107681429947
+Lag-7 autocorrelation,0.8360226681457215
+Capacity exceedance days,0.0
+"Mean arrivals, Monday",33.985645933014354
+"Mean arrivals, Sunday",29.00956937799043
+Highest monthly mean arrivals,33.47787610619469
+Lowest monthly mean arrivals,27.387096774193548
+Highest monthly mean occupancy,527.7964601769911
+Lowest monthly mean occupancy,440.18548387096774
